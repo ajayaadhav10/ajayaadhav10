@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajayaadhav" target="blank"><img src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge" alt="ajayaadhav" /></a> </p>
 
-- 🔭 I’m currently Studying [M.Tech(Software Engineering) at VIT Univeristy](https://vit.ac.in/)
+- 🔭 I’m currently Studying [M.Tech(Software Engineering) at VIT University](https://vit.ac.in/)
 
 - 🌱 I’m currently learning **programming and web development**
 
