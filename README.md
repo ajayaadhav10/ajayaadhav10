@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Aadhav VV</h1>
+<h1 align="center">Hi 👋, I'm Ajay Aadhav V V</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10&label=Profile%20views&color=0e75b6&style=flat" alt="ajayaadhav10" /> </p>
