@@ -13,7 +13,7 @@
 
 - 👯 My Area of Interest's are **Cloud computing, Web development, Game development**
 
-- 👨‍💻 All of my projects are available at [https://ajayaadhav.netlify.app/](https://ajayaadhav.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
 
 - ⚡ Fun fact **Gym freak**
 
