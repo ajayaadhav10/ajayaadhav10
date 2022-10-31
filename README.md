@@ -1,38 +1,243 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-
-<h1 align="center">Hi 👋, I'm Ajay Aadhav V V</h1>
-<img align ="right" alt "Coding" height="350" width="350" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
-
-<h3 align="center">A passionate Software Engineering student from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10-j&label=Profile%20views&color=green&style=flat" alt="ajayaadhav10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayaadhav10" alt="ajayaadhav10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ajayaadhav" target="blank"><img src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge" alt="ajayaadhav" /></a> </p>
-
-- 🔭 I’m currently Studying [M.Tech(Software Engineering) at VIT University](https://vit.ac.in/)
-
-- 🌱 I’m currently learning **programming and web development**
-
-- 👯 My Area of Interest's are **Cloud computing, Web development, Game development**
-
-- 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
-
-- ⚡ Fun fact **Gym freak**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Header start -->
+<h1 align="center"> 👋 Hello, Welcome to my Github profile</a>
+<h1 align="center">I'm <a href="https://ajayaadhav.vercel.app/" >Ajay Aadhav V V</a></h1>
+<p align="center">
 <a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
 <a href="https://fb.com/ajayaadhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
 </p>
+<img align ="right" alt "Coding" width="280" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<!-- Header end -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayaadhav10&show_icons=true&locale=en&layout=compact" alt="ajayaadhav10" /></p>
+ <!-- GitHub About me section start -->
+ ## 👨‍💻About Me:
+- ✨ A passionate Software Engineering student from India
+- 🚀 I’m interested in Web development, Java programming and cloud computing 
+- 🌱 I’m currently learning Programming & Web development 
+- 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
+  <p align="center"> <img src="https://gpvc.arturio.dev/ajayaadhav10" alt="naveenkumar-j" /> </p>
+<!-- GitHub About me section end -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayaadhav10&show_icons=true&locale=en" alt="ajayaadhav10" /></p>
+
+<!-- GitHub Skills start -->
+## 🎓Tools and Technologies:
+- **Programming Languages**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Wordpress</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Wix</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Databases**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Hive</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **web Hosting Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Heroku</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Netlify</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
+					</td>
+     
+     <td width="25%" align="center">
+						<span><strong>Github pages</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
+					</td>
+					     <td width="25%" align="center">
+						<span><strong>Vercel</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **AI/ML**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Tensorflow</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>OpenCV</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>PyTorch</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+					</td>
+      <td width="25%" align="center">
+						<span><strong>NumPy</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Designing Softwares:**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Figma</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Canva</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+					</td>
+					</tr>
+			</tbody>
+		</table>
+	</center>
+- **Cloud Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>IBM</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>AWS</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+					</td>
+     
+     <td width="25%" align="center">
+						<span><strong>Azure</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Others**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Linux</strong></span><br/>
+						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>git</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+					</td>
+     <td width="25%" align="center">
+						<span><strong>github</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+					</td>
+      <td width="25%" align="center">
+						<span><strong>Bitbucket</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
+					</td>
+
+     <td width="25%" align="center">
+						<span><strong>Arduino</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+					</td>
+    
+     <td width="25%" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Matlab</strong></span><br/>
+						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+<!-- GitHub Skills end -->
+<!-- GitHub Activity start -->
+## 🏆My Github stats and Trophies:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ajayaadhav10&theme=solarized-dark&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayaadhav10&theme=solarized-dark)
+
+<div align="left">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayaadhav10&theme=solarized-dark" alt="ajayaadhav10" /></p>
+</div>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ajayaadhav10&theme=solarized-dark) 
+<!-- GitHub Activity end -->
+
+
 
