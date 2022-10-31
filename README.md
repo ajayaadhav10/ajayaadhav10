@@ -1,7 +1,7 @@
 ![bannerr](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Ajay Aadhav V V</h1>
-<img align ="right" alt "Coding" width="350" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<img align ="right" alt "Coding" height="350" width="350" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 <h3 align="center">A passionate Software Engineering student from India</h3>
 
