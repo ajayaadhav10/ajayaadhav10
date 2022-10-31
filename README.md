@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ajay Aadhav V V</h1>
 <h3 align="center">A passionate Software Engineering student from India</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10-j&label=Profile%20views&color=green&style=flat" alt="ajayaadhav10" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayaadhav10" alt="ajayaadhav10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ajayaadhav" target="blank"><img src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge" alt="ajayaadhav" /></a> </p>
