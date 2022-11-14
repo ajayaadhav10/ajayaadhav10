@@ -20,7 +20,7 @@
 - 🚀 I’m interested in Web development, Java programming and cloud computing 
 - 🌱 I’m currently learning Programming & Web development 
 - 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
-  <p align="center"> <img src="https://gpvc.arturio.dev/ajayaadhav10" alt="naveenkumar-j" /> </p>
+  <p align="center"> <img src="https://gpvc.arturio.dev/ajayaadhav10" alt="ajayaadhav10" /> </p>
 <!-- GitHub About me section end -->
 
 
@@ -75,6 +75,14 @@
 					<td  align="center">
 						<span><strong>Wix</strong></span><br/>
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
+					</td>
+					<td align="center">
+						<span><strong>TypeScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
+					</td>
+					<td align="center">
+						<span><strong>TypeScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
 					</td>
 				</tr>
 			</tbody>
